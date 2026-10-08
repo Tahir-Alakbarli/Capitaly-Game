@@ -1,2 +1,2 @@
 # Capitaly-Game
-Monopoly time of game built in Java, using OOP and such concepts.
+Game similar to monopoly with player strategis and dice rolls created in Java. OOP concepts were used.
